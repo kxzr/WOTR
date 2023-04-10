@@ -8,10 +8,10 @@ This dataset follows VOC format, if you are not clear about the VOC data format,
 Dataset file directory:
 -
 WOTR Dataset<br>
-  -Annotations<br>
-  -ImageSets<br>
-    --Main<br>
-      ---test.txt<br>
-      ---train.txt<br>
-      ---val.txt<br>
-  -JPEGImages<br>
+    -Annotations<br>
+    -ImageSets<br>
+      --Main<br>
+        ---test.txt<br>
+        ---train.txt<br>
+        ---val.txt<br>
+    -JPEGImages<br>
