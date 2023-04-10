@@ -7,7 +7,7 @@ This dataset follows VOC format, if you are not clear about the VOC data format,
 
 Dataset file directory:
 ```
-WOTR Dataset<br>
+WOTR Dataset
    -Annotations
    -ImageSets
      --Main
