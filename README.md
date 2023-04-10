@@ -1,5 +1,6 @@
 # WOTR
 A Dataset for people walk on the roads.
+Click the link to get WOTR: [Baidu CODE:WOTR](https://pan.baidu.com/s/1XmKwi6IMWNllZXm2EMhkGA)
 
 Classes:[ 'tree','red_light','green_light','crosswalk','blind_road','sign', 'person', 'bicycle', 'bus', 'truck', 'car','motorcycle', 'reflective_cone', 'ashcan', 'warning_column','roadblock', 'pole', 'dog', 'tricycle','fire_hydrant' ]
 
