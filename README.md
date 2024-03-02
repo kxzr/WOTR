@@ -17,3 +17,17 @@ WOTR Dataset
        ---val.txt
    -JPEGImages
 ```
+
+# Citations
+Please consider citing our papers in your publications if this dataset helped with your research.
+```
+@article{xia2023dataset,
+  title={A dataset for the visually impaired walk on the road},
+  author={Xia, Haiying and Yao, Cong and Tan, Yumei and Song, Shuxiang},
+  journal={Displays},
+  volume={79},
+  pages={102486},
+  year={2023},
+  publisher={Elsevier}
+}
+```
