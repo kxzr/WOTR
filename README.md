@@ -4,6 +4,8 @@ Click the link to get WOTR: [Baidu CODE:WOTR](https://pan.baidu.com/s/1XmKwi6IMW
 
 Classes:[ 'tree','red_light','green_light','crosswalk','tactile_paving','sign', 'pedestrian', 'bicycle', 'bus', 'truck', 'car','motorcycle', 'reflective_cone', 'ashcan', 'warning_column','roadblock', 'pole', 'dog', 'tricycle','fire_hydrant' ]
 
+Note that in the Annotations folder, class tactile_paving->blind_road, pedestrian->person.
+
 This dataset follows VOC format, if you are not clear about the VOC data format, please [click to view](http://host.robots.ox.ac.uk/pascal/VOC/).
 
 Dataset file directory:
